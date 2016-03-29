@@ -1,0 +1,15 @@
+{
+  "Name": "Change sub layer visibility",
+  "SampleName": "ChangeSublayerVisibility",
+  "Description": "This code example shows changing the visibility of the sublayers in an ArcGISMapImageLayer. Meaning that you can turn on/off the individual sublayers in the map service.",
+  "Instructions": "",
+  "Type": 0,
+  "RequiresOnlineConnection":true,
+  "RequiresOfflineData":false,
+  "RequiresLocalServer":false,
+  "Image":"ChangeSublayerVisibility.jpg",
+  "Link":"",
+  "TypeLink": [
+  ],
+  "SampleFolder": "ChangeSublayerVisibility"
+}
